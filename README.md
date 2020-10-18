@@ -26,14 +26,14 @@ sudo user: anaconda
 password: vaiacondios
 
 
-root user
+user: root
 
 password: vaiacondios
 
 
 (where is ircd / gnuworld)
 
-gnuworld user
+user: gnuworld
 
 password: vaiacondios
 
