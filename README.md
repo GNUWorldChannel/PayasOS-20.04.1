@@ -38,11 +38,15 @@ gnuworld user
 password: vaiacondios
 
 ------------------------------------------
-Once you edit ircd.conf, GNUWorld.conf
-cservice.conf and ccontrol.conf files.
-you can start ircd + gnuworld using
+What do you need to edit: 
+ircd.conf
+GNUWorld.conf 
+cservice.conf
+ccontrol.conf
+
+You can start ircd + gnuworld using
 ./runall.sh file located at home in
-gnuworld user :).
+gnuworld user :)
 
 X login has "admin" as 1000 and the password
 is temPass as usual.
