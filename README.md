@@ -43,7 +43,7 @@ If you want a custom 1000, then add it into the db
 using the script as user id 2. 
 
 ------------------------------------------
-
+Bugs?: You will tell us :)
 If you have any question please read our guide
 https://github.com/GNUWorldChannel/Installation-guide
 
