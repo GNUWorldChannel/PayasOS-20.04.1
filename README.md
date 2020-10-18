@@ -11,6 +11,9 @@ a static one, go /etc/netplan and look the file "static-readme".
 
 NOTE: The first boot could take a while when your OS is
 getting your network adapter configuration.
+We tested virtual box network configuration, so let it as 
+bridge, do not change it to NAT. Always check your adapter 
+name there.
 
 ------------------------------------------
 Users created: 
