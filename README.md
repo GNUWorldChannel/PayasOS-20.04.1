@@ -44,7 +44,9 @@ using the script as user id 2.
 
 ------------------------------------------
 Bugs?: You will tell us :)
-If you have any question please read our guide
+If you have any question please read our guide since
+we installed all from it.
+
 https://github.com/GNUWorldChannel/Installation-guide
 
 -Review- y2k/ARI3L
