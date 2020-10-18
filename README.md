@@ -8,6 +8,7 @@ Ubuntu 20.04.1 server, installed with IRCU and GNUWORLD.
 
 ssh port: 22 Destination ip: check your DHCP and if you want
 a static one, go /etc/netplan and look the file "static-readme".
+NOTE: The first boot could take a while when your OS is getting your network adapter configuration.
 ------------------------------------------
 Users created: 
 
