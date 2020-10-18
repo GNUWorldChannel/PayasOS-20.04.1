@@ -1,6 +1,7 @@
 # PayasOS-20.04.1 server.
 
-THIS IMG. WILL BE ONLINE SOON :)
+request us access to download it
+via: https://drive.google.com/file/d/1UKf2fZHSWD53P-S5IgKslgXVNp-ewBgY/view?usp=sharing
 
 ircu+gnuworld installed via virtual box server.
 ssh port: 22
