@@ -3,8 +3,8 @@
 request us access to download it
 via: https://drive.google.com/file/d/1UKf2fZHSWD53P-S5IgKslgXVNp-ewBgY/view?usp=sharing
 
-This is a VM image, uncompress and run it.
-Ubuntu 20.04.1 server, installed with IRCU and GNUWORLD.
+This is a VM image created under Virtual Box, uncompress and run it.
+--- Ubuntu 20.04.1 server, installed with IRCU and GNUWORLD. ---
 
 ssh port: 22 Destination ip: check your DHCP and if you want
 a static one, go /etc/netplan and look the file "static-readme".
