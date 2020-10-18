@@ -9,11 +9,11 @@ This is a VM image created under Virtual Box, uncompress and run it.
 ssh port: 22 Destination ip: check your DHCP and if you want
 a static one, go /etc/netplan and look the file "static-readme".
 
-NOTE: The first boot could take a while when your OS is
-getting your network adapter configuration.
+NOTE: The first boot could take a while when the OS is
+getting your ethernet adapter configuration.
 We tested the network configuration, so let it as bridge
-do not change it to NAT. Always check your adapter 
-name there.
+do not change it to NAT, so please don´t. 
+Always check ethernet adapter name there.
 
 ------------------------------------------
 Users created: 
