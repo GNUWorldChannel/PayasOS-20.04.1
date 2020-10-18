@@ -8,7 +8,10 @@ Ubuntu 20.04.1 server, installed with IRCU and GNUWORLD.
 
 ssh port: 22 Destination ip: check your DHCP and if you want
 a static one, go /etc/netplan and look the file "static-readme".
-NOTE: The first boot could take a while when your OS is getting your network adapter configuration.
+
+NOTE: The first boot could take a while when your OS is
+getting your network adapter configuration.
+
 ------------------------------------------
 Users created: 
 
@@ -19,8 +22,10 @@ root user
 password: vaiacondios
 
 (where is ircd / gnuworld)
+
 gnuworld user
 password: vaiacondios
+
 ------------------------------------------
 Once you edit ircd.conf, GNUWorld.conf
 cservice.conf and ccontrol.conf files.
@@ -33,6 +38,7 @@ is temPass as usual.
 
 If you want a custom 1000, then add it into the db
 using the script as user id 2. 
+
 ------------------------------------------
 
 If you have any question please read our guide
