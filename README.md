@@ -13,7 +13,7 @@ a static one, go /etc/netplan and look the file "static-readme".
 
 NOTE: The first boot could take a while when the OS is
 getting your ethernet adapter configuration.
-We tested the network configuration, so let it as bridge
+We tested the network configuration, let it as bridge
 do not change it to NAT, so please don´t. 
 Always check ethernet adapter name there.
 
