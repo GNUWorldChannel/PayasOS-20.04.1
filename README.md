@@ -7,6 +7,8 @@ This is a VM image created under Virtual Box, uncompress, edit mandatory
 config files and enjoy :)
 
 --- Ubuntu 20.04.1 server, installed with IRCU and GNUWORLD. ---
+Follow https://github.com/GNUWorldChannel/Installation-guide
+to add cservice-web running too. 
 
 ssh port: 22 Destination ip: check your DHCP and if you want
 a static one, go /etc/netplan and look the file "static-readme".
