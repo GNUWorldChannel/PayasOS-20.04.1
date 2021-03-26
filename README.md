@@ -1,9 +1,7 @@
 <p style="text-align:center;"><img src="https://github.com/GNUWorldChannel/PayasOS-20.04.1/blob/main/logo-final.png" alt="PayasOS 20.04.1 by y2k and ARI3L"></p>
 
-# PayasOS-20.04.1 server.
-
-Request us access to download it via:
-https://drive.google.com/file/d/1UKf2fZHSWD53P-S5IgKslgXVNp-ewBgY/view?usp=sharing
+# PayasOS-20.04.2 server.
+https://drive.google.com/file/d/1rUz2mS0KX4teNJ_yevrpXa5OsqOxTrku/view?usp=sharing
 
 This is a VM image created under Virtual Box, uncompress, edit mandatory
 config files and enjoy :)
@@ -11,7 +9,6 @@ config files and enjoy :)
 --- Ubuntu 20.04.1 server, installed with IRCU and GNUWORLD. ---
 Follow https://github.com/GNUWorldChannel/Installation-guide
 to add cservice-web running too. 
-
 ssh port: 22 Destination ip: check your DHCP and if you want
 a static one, go /etc/netplan and look the file "static-readme".
 
