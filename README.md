@@ -1,6 +1,8 @@
 <p style="text-align:center;"><img src="https://github.com/GNUWorldChannel/PayasOS-20.04.1/blob/main/logo-final.png" alt="PayasOS 20.04.1 by y2k and ARI3L"></p>
 
 # PayasOS-20.04.2 server.
+
+Request us access vía: 
 https://drive.google.com/file/d/1rUz2mS0KX4teNJ_yevrpXa5OsqOxTrku/view?usp=sharing
 
 This is a VM image created under Virtual Box, uncompress, edit mandatory
