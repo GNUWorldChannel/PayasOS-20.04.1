@@ -19,9 +19,11 @@ gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ /usr/local/pgsql/bin/psql -h
 # PayasOS-20.04.2 server WITHOUT cservice-web (03/2021)
 
 Request us access vía: 
+
+For ircu+gnuworld WITHOUT cservice-web:
 https://drive.google.com/file/d/1rUz2mS0KX4teNJ_yevrpXa5OsqOxTrku/view?usp=sharing
 
-For the cservice-web version: 
+For ircu+gnuworld WITH cservice-web: 
 https://drive.google.com/file/d/1WX3pDHPGgz45NZTMdb6KFOjHcL0xoYjA/view?usp=sharing
 
 This is a VM image created under Virtual Box, uncompress, edit mandatory
