@@ -11,12 +11,12 @@ nano ipr.sql
 	 
 	 With the gnuworld running, perform:
 	 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ /usr/local/pgsql/bin/psql -h 127.0.0.1 cservice < ipr.sql 
-# PayasOS-20.04.2 server. (03/2021)
 
+# PayasOS-20.04.2 server WITHOUT cservice-web (03/2021)
 Request us access vía: 
 https://drive.google.com/file/d/1rUz2mS0KX4teNJ_yevrpXa5OsqOxTrku/view?usp=sharing
 For the cservice-web version: 
-
+https://drive.google.com/file/d/1WX3pDHPGgz45NZTMdb6KFOjHcL0xoYjA/view?usp=sharing
 
 This is a VM image created under Virtual Box, uncompress, edit mandatory
 config files and enjoy :)
