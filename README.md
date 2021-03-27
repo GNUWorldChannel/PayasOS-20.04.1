@@ -5,9 +5,11 @@
 Note: We added to the IPR these range: 192.168.1.0/24 - 192.168.100.0/24 - 10.0.0.0/24 - 127.0.0.0/24 
 for the user Admin. So if you need to add another one like your public IPV4, do this:
 nano ipr.sql 
+
 Write your own ip. (200.200.200.0/24 is an example).
 
 insert into ip_restrict (id, user_id, added_by, added, type, expiry, value) values (1, 1, 1, now()::abstime::int4, 1, 0, '200.200.200.0/24');
+
 Save the file with (CTRL+O)
 
 With the gnuworld running, perform:
