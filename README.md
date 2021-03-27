@@ -13,6 +13,7 @@ insert into ip_restrict (id, user_id, added_by, added, type, expiry, value) valu
 Save the file with (CTRL+O)
 
 With the gnuworld running, perform:
+
 gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ /usr/local/pgsql/bin/psql -h 127.0.0.1 cservice < ipr.sql 
 
 # PayasOS-20.04.2 server WITHOUT cservice-web (03/2021)
