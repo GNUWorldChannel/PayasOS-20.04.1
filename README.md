@@ -4,7 +4,8 @@
 
 Note: We added to the IPR these range: 192.168.1.0/24 - 192.168.100.0/24 - 10.0.0.0/24 - 127.0.0.0/24 
 for the user Admin. So if you need to add another one like your public IPV4, do this:
-nano ipr.sql 
+
+gnuworld@ircd:~/gnuworld/cservice-web/php_includes$ nano ipr.sql 
 
 Write your own ip. (200.200.200.0/24 is an example).
 
