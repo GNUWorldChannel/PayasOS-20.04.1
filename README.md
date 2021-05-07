@@ -1,6 +1,6 @@
 <p style="text-align:center;"><img src="https://github.com/GNUWorldChannel/PayasOS-20.04.1/blob/main/logo-final.png" alt="PayasOS 20.04.1 by y2k and ARI3L"></p>
 
-# PayasOS-20.04.2 server WITH cservice-web. (03/2021)
+# PayasOS-20.04.2 server WITH cservice-web. (05/2021)
 
 Note: We added to the IPR these range: 192.168.1.0/24 - 192.168.100.0/24 - 10.0.0.0/24 - 127.0.0.0/24 
 for the user Admin. So if you need to add another one like your public IPV4, do this:
@@ -25,7 +25,7 @@ For ircu+gnuworld WITHOUT cservice-web:
 https://drive.google.com/file/d/1rUz2mS0KX4teNJ_yevrpXa5OsqOxTrku/view?usp=sharing
 
 For ircu+gnuworld WITH cservice-web: 
-https://drive.google.com/file/d/1WX3pDHPGgz45NZTMdb6KFOjHcL0xoYjA/view?usp=sharing
+https://drive.google.com/file/d/1zbB_CNtpMhh_0TMbip1Loddt4fN8_ml-/view?usp=sharing
 
 This is a VM image created under Virtual Box, uncompress, edit mandatory
 config files and enjoy :)
