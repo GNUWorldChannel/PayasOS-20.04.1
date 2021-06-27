@@ -1,5 +1,12 @@
 <p style="text-align:center;"><img src="https://github.com/GNUWorldChannel/PayasOS-20.04.1/blob/main/logo-final.png" alt="PayasOS 20.04.1 by y2k and ARI3L"></p>
 
+JUNE, 2021: We added Ubuntu 21.04.0 as VM with all PRE-REQUISITES installed.
+It means, you need to install ircu + gnuworld + cservice-web but isn´t necesary
+follow the entire guide. Just download de ircu part, compile, configure and run it.
+Same thing for gnuworld. Use PayasOS same users and passwords.
+
+Request us access via: https://drive.google.com/file/d/15TmOw-xQ6H8bpM_7Y1T-02k6KHl3uudY/view?usp=sharing
+
 # PayasOS-20.04.2 server WITH cservice-web. (05/2021)
 
 Note: We added to the IPR these range: 192.168.1.0/24 - 192.168.100.0/24 - 10.0.0.0/24 - 127.0.0.0/24 
