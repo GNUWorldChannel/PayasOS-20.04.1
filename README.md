@@ -3,7 +3,7 @@
 JUNE, 2021: We added Ubuntu 21.04.0 as VM with all PRE-REQUISITES installed.
 It means, you need to download ircu + gnuworld + cservice-web but isn´t necesary
 follow the entire guide. Compile both, configure and run them.
-Same thing for gnuworld. Use PayasOS same users and passwords.
+Use PayasOS same users and passwords.
 
 Request us access via: https://drive.google.com/file/d/15TmOw-xQ6H8bpM_7Y1T-02k6KHl3uudY/view?usp=sharing
 
